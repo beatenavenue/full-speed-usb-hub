@@ -11,3 +11,7 @@ I have recently found a USB 2.0 isolator chip. Although USB 2.0 normally operate
 ## Solution
 - **ADuM4160** — USB 2.0 isolator chip  
 - **CH334P** — USB 2.0 hub-controller chip
+
+## Dependency Library
+- [TLV73330PDBVR](https://www.snapeda.com/parts/TLV73330PDBVR/Texas%20Instruments/view-part/?ref=search&t=TLV73330PDBVR)
+
