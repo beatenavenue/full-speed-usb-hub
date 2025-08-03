@@ -4730,7 +4730,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_A"
+		(property "Value" "USB_A C668591"
 			(at 193.04 92.71 0)
 			(effects
 				(font
@@ -4738,7 +4738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Receptacle_GCT_USB1046"
+		(property "Footprint" "Library:USB_A_Receptacle_C668591"
 			(at 196.85 104.14 0)
 			(effects
 				(font
@@ -4807,7 +4807,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "D SS34 C8678"
 			(at 204.47 93.98 0)
 			(effects
 				(font
@@ -4815,7 +4815,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 204.47 97.79 0)
 			(effects
 				(font
@@ -5137,7 +5137,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_A"
+		(property "Value" "USB_A C668591"
 			(at 107.95 92.71 0)
 			(effects
 				(font
@@ -5145,7 +5145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Receptacle_GCT_USB1046"
+		(property "Footprint" "Library:USB_A_Receptacle_C668591"
 			(at 111.76 104.14 0)
 			(effects
 				(font
@@ -5213,7 +5213,7 @@
 				)
 			)
 		)
-		(property "Value" "R 24"
+		(property "Value" "R 27"
 			(at 133.35 56.388 90)
 			(effects
 				(font
@@ -5281,7 +5281,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "D SS34 C8678"
 			(at 119.38 93.98 0)
 			(effects
 				(font
@@ -5289,7 +5289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 119.38 97.79 0)
 			(effects
 				(font
@@ -5366,7 +5366,7 @@
 				)
 			)
 		)
-		(property "Value" "R 24"
+		(property "Value" "R 27"
 			(at 99.314 55.88 90)
 			(effects
 				(font
@@ -5950,7 +5950,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_A"
+		(property "Value" "USB_A C668591"
 			(at 137.16 92.71 0)
 			(effects
 				(font
@@ -5958,7 +5958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Receptacle_GCT_USB1046"
+		(property "Footprint" "Library:USB_A_Receptacle_C668591"
 			(at 140.97 104.14 0)
 			(effects
 				(font
@@ -6093,7 +6093,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "D SS34 C8678"
 			(at 148.59 93.98 0)
 			(effects
 				(font
@@ -6101,7 +6101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 148.59 97.79 0)
 			(effects
 				(font
@@ -6657,7 +6657,7 @@
 				)
 			)
 		)
-		(property "Value" "R 24"
+		(property "Value" "R 27"
 			(at 133.35 63.5 90)
 			(effects
 				(font
@@ -6962,7 +6962,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff5")
+			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff6")
 		)
 		(instances
 			(project ""
@@ -7685,7 +7685,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff5")
+			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff7")
 		)
 		(instances
 			(project ""
@@ -7845,7 +7845,7 @@
 				)
 			)
 		)
-		(property "Value" "R 24"
+		(property "Value" "R 27"
 			(at 99.06 62.992 90)
 			(effects
 				(font
@@ -7913,7 +7913,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "CH334P"
 			(at 177.8 72.39 0)
 			(effects
 				(font
@@ -8800,7 +8800,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff5")
+			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff8")
 		)
 		(instances
 			(project ""
@@ -8866,7 +8866,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff5")
+			(uuid "1740f9fd-4018-4d5c-9169-d09e424d1ff9")
 		)
 		(instances
 			(project ""
@@ -9101,7 +9101,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "D SS34 C8678"
 			(at 176.53 93.98 0)
 			(effects
 				(font
@@ -9109,7 +9109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 176.53 97.79 0)
 			(effects
 				(font
@@ -9385,7 +9385,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_A"
+		(property "Value" "USB_A C668591"
 			(at 165.1 92.71 0)
 			(effects
 				(font
@@ -9393,7 +9393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Receptacle_GCT_USB1046"
+		(property "Footprint" "Library:USB_A_Receptacle_C668591"
 			(at 168.91 104.14 0)
 			(effects
 				(font
