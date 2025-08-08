@@ -1,5 +1,8 @@
-# full-speed-usb-hub
+**ATTENTION: THIS PRODUCT NOT YET WORKING**
+
+# SLOWER SPEED USB HUB
 4 port USB2.0 HUB limit by full speed (slow like 1.1)
+![image](img/board.jpg)
 
 ## Motivation
 My DIY USB hardware is susceptible to noise and cannot reliably carry high-bit-rate signals over inexpensive jumper wires.  
